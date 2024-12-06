@@ -28,5 +28,5 @@ class WeChatAPI(WXWork):
 
 if __name__ == '__main__':
     api = WeChatAPI()
-    api.send_message("A0238","1000071","我就试一下")
-    api.getuserid("andy_zhang@morglory.com.tw")
+    api.send_message("0000","000671","我就试一下")
+    api.getuserid("123456543@qq.com")
